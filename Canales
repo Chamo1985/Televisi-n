@@ -1,13 +1,82 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="WinSports.co" tvg-name="Win Sports" tvg-country="CO" tvg-language="" tvg-logo="" group-title="",Win Sports
-
 http://186.101.216.211:8000/play/a0cq
 
 #EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-name="Win Sports +" tvg-country="CO" tvg-language="" tvg-logo="" group-title="",Win Sports +
-
 http://186.101.216.211:8000/play/g07j
 
-#EXTINF:-1 tvg-logo="" ,Direc TV Sports
+#EXTINF:-1 tvg-id="Direc TV" tvg-name="" tvg-country="CO" tvg-language="" tvg-logo="" group-title="",Direc TV
+http://142.44.246.107:25461/live/658747721/658747721/22748.m3u8?token=T0QJVEZaRF4aWgFTBFFTUQ9UA1NUVFlXDl0LVABXXwoMB1QBA1dRAlsaFRMRQEVSV1ppDFZGWwEKUgcNFRFMS1EUPlxREFxGCgwBAlYWGxVCXlsAEF5RHxoVWlEbCRsKBlRWDBceRAFATFxDDFVbaFJSQAxRAUMJVhBfWRURVlZrAgRYVFwCRgIaCRNOFl5ERhUMC0cIDR8aB1pBS1JNXRZcQwQDC1dGFBpaXhdaQ0VPFQxHcStDHxoAS0FcXUpRWwhDDxdfVREAGhUTC0doRVNEQhdXBQxWSkcJFwkRFRpZBxlqVl0ICl1bTVgNWkQVDBUARx5GDFxWDEdaS2xJUVBEWxcHAVZVDhpE
 
-http://142.44.246.107:25461/live/338168989/338168989/22748.m3u8?token=T0QJVEZaRF4aXAwIUFAEVVcFAwNQAlIKCFcLUFsKXAsFAgRQVFZQUQ0aFRMRQEVSV1ppDFZGWwEKUgcNFRFMS1EUPlxREFxGCgsABlUWGxVCXlsAEF5RHxoVWlEbCRsABVRYFxkQAxxMXUtfA1hoU1NBXwZXRltdTQlfGRtcV2dQAwxUW1ZEXhoIGx1AXURHFA1YEF4ITRFaDEdHWEdcGg5EVQACC0RIGltWRAxARU4UDRQmfUZNEV0dR1BXQFBXWkRbF1gBE1waFBtYEWtFUkVDRABTCQRBGl8RBRsfG1VVHj5WWlwIAVtMUF4MRxUNFAEUSRAJDl1REVxHZkNQXBZcQwcGAldSGkU=
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="PPV",FOX SPORTS
+http://stream.tvpor-internet.net/manifest/01/f0xsports.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="PPV",FOX SPORTS 2
+http://stream.tvpor-internet.net/manifest/01/f0xsports2.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="PPV",FOX SPORTS 3
+http://stream.tvpor-internet.net/manifest/01/f0xsports3.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="PPV",espn HD
+http://stream.tvpor-internet.net/manifest/01/espn.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="PPV",espn2 HD
+http://stream.tvpor-internet.net/manifest/06/espn2.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="PPV",espn3 HD
+http://stream.tvpor-internet.net/manifest/06/espn3.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="PPV",directv sports
+http://stream.tvpor-internet.net/manifest/04/directv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="PPV",tyc sports
+http://stream.tvpor-internet.net/manifest/04/tyc-sports.m3u8
+
+#EXTINF: -1 tvg-logo = "https://i.imgur.com/5YCF0yo.jpg" group-title = "DEPORTES", CDF (usar Wiseplay)
+http://live.fcnlb.click/hls/pc360/index.m3u8
+
+#EXTINF: -1 tvg-logo = "http://i.imgur.com/eb7DJL4.png" group-title = "DEPORTES", TyC Sports Argentina HD
+https://nahuelweb.000webhostapp.com/arg/tyc.php
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="PPV",TDN
+http://stream.tvpor-internet.net/manifest/04/univision-tdn.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2c/BFM_Sport.svg/600px-BFM_Sport.svg.png" group-title="DEPORTES", BFM Sport
+http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/master.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="DEPORTES",Abu Dhabi Sports
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="DEPORTES",Abu Dhabi Sports 2
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.alandulus.com/wp-content/uploads/2018/03/Al_Kass_Sport_Channel_4a16d_450x450.png" group-title="DEPORTES",Al Kass Sports
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.alandulus.com/wp-content/uploads/2018/03/Al_Kass_Sport_Channel_4a16d_450x450.png" group-title="DEPORTES",Al Kass Sports 2
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.alandulus.com/wp-content/uploads/2018/03/Al_Kass_Sport_Channel_4a16d_450x450.png" group-title="DEPORTES",Al Kass Sports 3
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.alandulus.com/wp-content/uploads/2018/03/Al_Kass_Sport_Channel_4a16d_450x450.png" group-title="DEPORTES",Al Kass Sports 4
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.alandulus.com/wp-content/uploads/2018/03/Al_Kass_Sport_Channel_4a16d_450x450.png" group-title="DEPORTES",Al Kass Sports 5
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?xtreamiptv.m3u8
+
+#EXTINF: -1 tvg-logo = "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F1.png" group-title = "DEPORTES", Copa Superliga Argentina HD (Solo Eventos) 
+https://nahuelweb.000webhostapp.com/arg/copa-superliga2019.php
+
+#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" group-title = "DEPORTES", ESPN Deportes
+https://fubolive.com/live/espndeportes/index.m3u8
+
+#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title = "DEPORTES", Bein Sports 1
+http://176.10.117.12:8081/aypitv/SportHD1/playlist.m3u8
+
+EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sky_Sport_Football_-_Logo_2018.svg/1280px-Sky_Sport_Football_-_Logo_2018.svg.png" group-title = "DEPORTES", Sky Sport Football
+https://1.ip2stream.icu/live/sky_sport_football_hd/playlist.m3u8
+
+#EXTINF: -1, tvg-logo = "http://www.egypttoday.com/siteimages/Larg/15272.jpg" group-title = "DEPORTES", Onsports
+http://185.27.116.54:1935/livestream/sno/playlist.m3u8
